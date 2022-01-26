@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.js": "/divar-application/static/js/main.920acee5.chunk.js",
+    "main.js.map": "/divar-application/static/js/main.920acee5.chunk.js.map",
+    "runtime-main.js": "/divar-application/static/js/runtime-main.83e5cbad.js",
+    "runtime-main.js.map": "/divar-application/static/js/runtime-main.83e5cbad.js.map",
+    "static/css/2.94f610fb.chunk.css": "/divar-application/static/css/2.94f610fb.chunk.css",
+    "static/js/2.67d340f3.chunk.js": "/divar-application/static/js/2.67d340f3.chunk.js",
+    "static/js/2.67d340f3.chunk.js.map": "/divar-application/static/js/2.67d340f3.chunk.js.map",
+    "index.html": "/divar-application/index.html",
+    "static/css/2.94f610fb.chunk.css.map": "/divar-application/static/css/2.94f610fb.chunk.css.map",
+    "static/js/2.67d340f3.chunk.js.LICENSE.txt": "/divar-application/static/js/2.67d340f3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.83e5cbad.js",
+    "static/css/2.94f610fb.chunk.css",
+    "static/js/2.67d340f3.chunk.js",
+    "static/js/main.920acee5.chunk.js"
+  ]
+}
